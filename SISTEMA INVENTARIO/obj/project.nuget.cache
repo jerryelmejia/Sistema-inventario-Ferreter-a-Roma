@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "iqoxJ5nu+CE=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Suyen\\Documents\\notas\\SISTEMA INVENTARIO\\SISTEMA INVENTARIO.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json.\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'api.nuget.org'",
+      "projectPath": "C:\\Users\\Suyen\\Documents\\notas\\SISTEMA INVENTARIO\\SISTEMA INVENTARIO.csproj",
+      "filePath": "C:\\Users\\Suyen\\Documents\\notas\\SISTEMA INVENTARIO\\SISTEMA INVENTARIO.csproj",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": []
+    }
+  ]
+}
